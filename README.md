@@ -1,6 +1,6 @@
 ### MF1933058 刘凡维testc
 #### 源代码test.c
-![testc.png](https://github.com/lfwbale/LLVM_SSA/blob/master/test.c)
+![testc.png](testc.png)
 
 ##### 使用语句clang tset.c -emit-llvm -S -c -o test.ll 生成tset.ll文件
 
