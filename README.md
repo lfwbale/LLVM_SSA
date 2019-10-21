@@ -1,11 +1,11 @@
-### MF1933058 刘凡维
+### MF1933058 刘凡维testc
 #### 源代码test.c
-![755b3a09f9ffe4dea72496072f7a476f.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p96)
+![testc.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p96)
 
 ##### 使用语句clang tset.c -emit-llvm -S -c -o test.ll 生成tset.ll文件
 
 #### test.ll文件代码
-![7c9f4e80654bf95c375d471b0864d0b7.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p97)
+![testll.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p97)
 
 
 #### 说明：
@@ -18,12 +18,12 @@
 
 
 #### 源代码point.c
-![68db14d6c12bd5314448ef055d101827.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p99)
+![pointc.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p99)
 
 ##### 使用语句clang point.c -emit-llvm -S -c -o point.ll 生成point.ll文件
 
 #### test.ll文件代码
-![3b93dd9e0c9db0b8f3c24a0ee2ca2129.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p100)
+![pointll.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p100)
 
 #### 说明：
 根据point.c生成的point.ll文件中
