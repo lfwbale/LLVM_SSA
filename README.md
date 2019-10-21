@@ -5,7 +5,7 @@
 ##### 使用语句clang tset.c -emit-llvm -S -c -o test.ll 生成tset.ll文件
 
 #### test.ll文件代码
-![testll.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p97)
+![testll.png](testll.png)
 
 
 #### 说明：
@@ -18,12 +18,12 @@
 
 
 #### 源代码point.c
-![pointc.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p99)
+![pointc.png](pointc.png)
 
 ##### 使用语句clang point.c -emit-llvm -S -c -o point.ll 生成point.ll文件
 
 #### test.ll文件代码
-![pointll.png](evernotecid://848BA53C-1069-4418-97BD-83211FEC73F4/appyinxiangcom/10677968/ENResource/p100)
+![pointll.png](pointll.png)
 
 #### 说明：
 根据point.c生成的point.ll文件中
